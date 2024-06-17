@@ -2,7 +2,7 @@
 // Database connection details
 $servername = "localhost";
 $username = "root";
-$password = ""; 
+$password = "";  
 $dbname = "ttc";
 
 // Create connection
