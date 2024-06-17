@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL);
-$servername = "localhost";  
+$servername = "localhost";   
 $username = "root";         
 $password = "";     
 $dbname = "ttc";       
