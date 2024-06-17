@@ -3,7 +3,7 @@ session_start();
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "ttc";
+$dbname = "ttc"; 
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
