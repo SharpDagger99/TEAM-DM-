@@ -3,7 +3,7 @@
 $organization_name = "Default Organization Name"; 
 
 // Check if form is submitted
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
+if ($_SERVER["REQUEST_METHOD"] == "POST") { 
     // Retrieve data from the form
     $input_data = $_POST["OROQUIETA MTB"]; // Replace "input_data" with the actual name attribute of your form input field
     
