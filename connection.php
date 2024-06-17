@@ -10,7 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Your database connection code goes here
     // Replace placeholders with your actual database credentials
     $servername = "localhost";
-    $username = "root";
+    $username = "root";  
     $password_db = "";
     $dbname = "ttc";
 
