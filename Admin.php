@@ -2,7 +2,7 @@
 error_reporting(E_ALL);
 $servername = "localhost";   
 $username = "root";          
-$password = "";       
+$password = "";         
 $dbname = "ttc";       
       
 
