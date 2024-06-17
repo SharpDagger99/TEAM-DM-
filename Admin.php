@@ -4,6 +4,8 @@ $servername = "localhost";
 $username = "root";     
 $password = ""; 
 $dbname = "ttc";     
+
+
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname); 
  
