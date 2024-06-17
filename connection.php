@@ -1,7 +1,7 @@
 <?php
 // admin_login.php
 
-// Check if form is submitted
+// Check if form is submitted   
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Retrieve entered email and password from form
     $email = $_POST['admin-username'];
