@@ -1,6 +1,6 @@
 <?php
 // Initialize $organization_name variable
-$organization_name = "Default Organization Name";
+$organization_name = "Default Organization Name"; 
 
 // Check if form is submitted
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
