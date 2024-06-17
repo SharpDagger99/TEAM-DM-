@@ -2,7 +2,7 @@
 session_start();
 
 $servername = "localhost";
-$username = "root";       
+$username = "root";         
 $password = "";    
 $dbname = "ttc";    
     
