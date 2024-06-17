@@ -5,7 +5,7 @@ header('Content-Type: application/json');
 
 // Database connection
 $servername = "localhost";
-$username = "root";
+$username = "root"; 
 $password = "";
 $dbname = "ttc";
 
