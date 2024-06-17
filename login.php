@@ -3,7 +3,7 @@ session_start();
 
 // Database connection parameters
 $servername = "localhost";
-$username = "root";
+$username = "root"; 
 $password = "";
 $dbname = "ttc";
 
